@@ -1,33 +1,33 @@
 {
     "lastPayout": {
-        "date": 1678468021,
-        "rewards": 180150000000,
-        "producedBlocks": 1807
+        "date": 1678471621,
+        "rewards": 180550000000,
+        "producedBlocks": 1811
     },
     "pending": {
-        "lskbnqy69np8ovhwfcq5wodjxn4ed8ka38st5h7uz": 2920121375,
-        "lsk39px8vjoo4r965q447cnukdexu3brhroynwch6": 1828504276,
-        "lsk33wnaw79jvxmsp8dzm22ymvuuvrjanf6jcu294": 3657008609,
-        "lsk58v7h9dokfeypv8shzgg9tpjokdz5s8pm27hht": 2199133680,
-        "lskzeayrtw5basxrjad2trv6a9doftaw9j3wyqkqn": 102396173,
-        "lsk4hsx4y2jet5gn4827hkg9ohu4c85p6f3qngakr": 251665129,
-        "lsku6zw2ysjqt667a2hb3bjmtxuwmowxduqy4kfqg": 117024210,
-        "lskxf4p79sfxy3uop2tx2rysstt8qewqecch5xwd8": 186507360,
-        "lskajxjy9hp9prs5wmgc34vcq5y563q4mgmadqyr7": 417059316,
-        "lskrtn8jbw679zw78k6ttdqdf89gocrtz5h4z5z7t": 6485704808,
-        "lskp6q5zjvxeogmqnrv29s82h8cm5rr293njqjxdh": 1828454,
-        "lsk855s9bg67frza548jrrehs8ses2rhvn8j6tpnc": 1444518344,
-        "lskjgodked5gcto5xkpc3xooo6xogrz98zv8x47sc": 731401671,
+        "lskbnqy69np8ovhwfcq5wodjxn4ed8ka38st5h7uz": 2941247460,
+        "lsk39px8vjoo4r965q447cnukdexu3brhroynwch6": 1841732882,
+        "lsk33wnaw79jvxmsp8dzm22ymvuuvrjanf6jcu294": 3683465822,
+        "lsk58v7h9dokfeypv8shzgg9tpjokdz5s8pm27hht": 2215060922,
+        "lskzeayrtw5basxrjad2trv6a9doftaw9j3wyqkqn": 103136974,
+        "lsk4hsx4y2jet5gn4827hkg9ohu4c85p6f3qngakr": 255117795,
+        "lsku6zw2ysjqt667a2hb3bjmtxuwmowxduqy4kfqg": 117870840,
+        "lskxf4p79sfxy3uop2tx2rysstt8qewqecch5xwd8": 187856677,
+        "lskajxjy9hp9prs5wmgc34vcq5y563q4mgmadqyr7": 420088666,
+        "lskrtn8jbw679zw78k6ttdqdf89gocrtz5h4z5z7t": 6532626676,
+        "lskp6q5zjvxeogmqnrv29s82h8cm5rr293njqjxdh": 1841682,
+        "lsk855s9bg67frza548jrrehs8ses2rhvn8j6tpnc": 1454968943,
+        "lskjgodked5gcto5xkpc3xooo6xogrz98zv8x47sc": 736693113,
         "lskbmb3yvm7w2a7v8oa4y8arnsybesbwxaeuxamaq": 911883330,
-        "lsk5kbwgjnzhuzyr7hnhunr5uaruhzucf447o4oa9": 1152604206,
-        "lsk4hc83tf7r9q4czg69dj4xo442fsmwte7qerx2d": 3291307743,
+        "lsk5kbwgjnzhuzyr7hnhunr5uaruhzucf447o4oa9": 1160938228,
+        "lsk4hc83tf7r9q4czg69dj4xo442fsmwte7qerx2d": 3315119235,
         "lskpay696ykzj5t8w42gsewy2peav63bfh9njfv7f": 587157533,
         "lsk8aa5t5kfkm8bgug6btdut2ekry4paoeognz4cg": 1587588893,
-        "lskrzzwzd76ag7a8z6ku7qdfbnhc95bos5889buwj": 1314703314,
-        "lskr6sa93dn7offpxzn7sm5rasjdr99uorx3kqpt6": 7387965052
+        "lskrzzwzd76ag7a8z6ku7qdfbnhc95bos5889buwj": 1330432127,
+        "lskr6sa93dn7offpxzn7sm5rasjdr99uorx3kqpt6": 7494587623
     },
     "paid": {
-        "lsk7eku44sqzddjfv8gyueaxebqx7osq3rxmm855u": 9448441241
+        "lsk7eku44sqzddjfv8gyueaxebqx7osq3rxmm855u": 9465109285
     },
     "history": []
 }
